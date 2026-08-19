@@ -1,0 +1,4 @@
+tareas.json
+__pycache__/
+*.pyc
+.venv/
